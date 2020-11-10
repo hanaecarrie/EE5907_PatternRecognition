@@ -149,4 +149,4 @@ __pycache__/
 .ipynb_checkpoints/*
 sh.exe.stackdump
 
-
+*/.DS_Store
